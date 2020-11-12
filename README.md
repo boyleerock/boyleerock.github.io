@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/boyleerock/boyleerock.gith
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-![Image of Yaktocat](https://www.google.com/search?q=baseball&sxsrf=ALeKk01Ajjye6BewBSuLSklZe0gPskpg6g:1605173035709&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjhruLE1_zsAhUBHaYKHWFAB3sQ_AUoAXoECA4QAw&biw=1280&bih=587#imgrc=taLTL-AVEbGWKM)
+![Image of Yaktocat](https://s7d2.scene7.com/is/image/TWCNews/mlb_baseball_jpeg?wid=1250&hei=703&$wide-bg$)
 
 ### Markdown
 
